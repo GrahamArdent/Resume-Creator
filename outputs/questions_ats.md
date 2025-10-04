@@ -1,0 +1,1 @@
+- Add a metric for Avatrics (Chief Revenue Officer (CRO)): quota %, deal size, ARR, pipeline, win rate.

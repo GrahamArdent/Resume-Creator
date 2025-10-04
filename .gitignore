@@ -1,0 +1,52 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- Build / Logs ----
+*.log
+*.tmp
+*.bak
+*.out
+*.pid
+
+# ---- Project Specific ----
+outputs/
+data/
+profile/answers.json
+profile/profile.json
+
+# ---- Secrets ----
+.env
+*.key
+*.pem
+
+# ---- Streamlit ----
+.streamlit/
+
+# ---- Jupyter (if used later) ----
+.ipynb_checkpoints/
+
+# ---- OS Generated ----
+Thumbs.db
+desktop.ini

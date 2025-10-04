@@ -1,0 +1,6 @@
+- Add 1–2 quantified bullets for Ardent Security | Account Executive (quota %, $ won, deal size, pipeline, win rate).
+- Add 1–2 quantified bullets for Avatrics | Chief Revenue Officer (CRO) (quota %, $ won, deal size, pipeline, win rate).
+- Add 1–2 quantified bullets for Upland Software (Cimpl & PSA) | Account Executive (quota %, $ won, deal size, pipeline, win rate).
+- Add 1–2 quantified bullets for Aurea Software | Account Executive, Global Sales & Operations (quota %, $ won, deal size, pipeline, win rate).
+- Add 1–2 quantified bullets for Williams Communication | Account Executive (quota %, $ won, deal size, pipeline, win rate).
+- Add 1–2 quantified bullets for Rogers Communications | Territory Field Sales Rep (quota %, $ won, deal size, pipeline, win rate).

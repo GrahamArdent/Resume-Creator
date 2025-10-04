@@ -1,0 +1,32 @@
+[
+  {
+    "type": "metric",
+    "role_key": "Ardent Security | Account Executive",
+    "prompt": "Add 1\u20132 quantified bullets for Ardent Security | Account Executive (quota %, $ won, deal size, pipeline, win rate)."
+  },
+  {
+    "type": "metric",
+    "role_key": "Avatrics | Chief Revenue Officer (CRO)",
+    "prompt": "Add 1\u20132 quantified bullets for Avatrics | Chief Revenue Officer (CRO) (quota %, $ won, deal size, pipeline, win rate)."
+  },
+  {
+    "type": "metric",
+    "role_key": "Upland Software (Cimpl & PSA) | Account Executive",
+    "prompt": "Add 1\u20132 quantified bullets for Upland Software (Cimpl & PSA) | Account Executive (quota %, $ won, deal size, pipeline, win rate)."
+  },
+  {
+    "type": "metric",
+    "role_key": "Aurea Software | Account Executive, Global Sales & Operations",
+    "prompt": "Add 1\u20132 quantified bullets for Aurea Software | Account Executive, Global Sales & Operations (quota %, $ won, deal size, pipeline, win rate)."
+  },
+  {
+    "type": "metric",
+    "role_key": "Williams Communication | Account Executive",
+    "prompt": "Add 1\u20132 quantified bullets for Williams Communication | Account Executive (quota %, $ won, deal size, pipeline, win rate)."
+  },
+  {
+    "type": "metric",
+    "role_key": "Rogers Communications | Territory Field Sales Rep",
+    "prompt": "Add 1\u20132 quantified bullets for Rogers Communications | Territory Field Sales Rep (quota %, $ won, deal size, pipeline, win rate)."
+  }
+]

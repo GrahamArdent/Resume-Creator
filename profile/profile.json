@@ -1,0 +1,99 @@
+{
+  "name": "Graham Hill",
+  "location": "Toronto, ON",
+  "email": "graham@ardentsecurity.ca",
+  "phone": "+1 (416) 555-1234",
+  "linkedin": "https://www.linkedin.com/in/grahamhillsaas/",
+  "domains": [
+    "Enterprise",
+    "Public Sector",
+    "Government"
+  ],
+  "methods": [
+    "Prospecting",
+    "Discovery",
+    "Negotiation",
+    "Closing",
+    "Forecasting",
+    "MEDDIC",
+    "BANT"
+  ],
+  "platforms": [
+    "Salesforce",
+    "HubSpot"
+  ],
+  "security_terms": [
+    "Cybersecurity",
+    "Identity-first",
+    "Passwordless",
+    "Endpoint",
+    "RFP"
+  ],
+  "experience": [
+    {
+      "company": "Ardent Security",
+      "title": "Account Executive",
+      "location": "Toronto, ON",
+      "start": "2024-05",
+      "end": "Present",
+      "bullets": [
+        "Closed $500K TCV, 3-year term with unlimited seats.",
+        "Built AI tools to improve CRM hygiene; maintain daily CRM discipline (30 minutes).",
+        "Prospected SMB/public sector; managed discovery through close with MEDDIC/BANT."
+      ]
+    },
+    {
+      "company": "Avatrics",
+      "title": "Chief Revenue Officer (CRO)",
+      "location": "Remote",
+      "start": "2022-08",
+      "end": "2024-04",
+      "bullets": [
+        "Delivered $2M new sales in 2023; managed $4M qualified pipeline.",
+        "Led enterprise/public-sector hunting and RFP-led cycles.",
+        "Built repeatable playbooks; coached team on MEDDIC/BANT."
+      ]
+    },
+    {
+      "company": "Upland Software (Cimpl & PSA)",
+      "title": "Account Executive",
+      "location": "Toronto, ON",
+      "start": "2019-01",
+      "end": "2022-07",
+      "bullets": [
+        "Closed enterprise deals across Canada Post Group, Disney, CSA, several banks.",
+        "Full-cycle ownership from prospecting to close; consistent >120% quota.",
+        "Specialized in solution mapping for CIO/CISO/Procurement."
+      ]
+    },
+    {
+      "company": "Aurea Software",
+      "title": "Account Executive, Global Sales & Operations",
+      "location": "Toronto, ON",
+      "start": "2017-01",
+      "end": "2018-12",
+      "bullets": [
+        "Closed enterprise and public-sector deals; complex stakeholder orchestration.",
+        "Managed pipeline rigor; executive storytelling & ROI modeling."
+      ]
+    },
+    {
+      "company": "Rogers Communications",
+      "title": "Account Executive",
+      "location": "Toronto, ON",
+      "start": "2014-01",
+      "end": "2016-12",
+      "bullets": [
+        "Presidents Club 2x, Team of the Year (2014).",
+        "Daily CRM hygiene; process rigor; high-volume prospecting."
+      ]
+    }
+  ],
+  "education": [
+    "Diploma/Certificates in Sales & Cybersecurity (various)"
+  ],
+  "awards": [
+    "Presidents Club (Rogers) 2x",
+    "Team of the Year (2014, Rogers)"
+  ]
+}
