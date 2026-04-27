@@ -1,4 +1,3 @@
-@"
 name: CI
 
 on:
@@ -28,4 +27,3 @@ jobs:
           OPENAI_API_KEY: ""
         run: |
           python scripts/ci_smoke.py
-"@ | Out-File -Encoding utf8 ".github\workflows\ci.yml"

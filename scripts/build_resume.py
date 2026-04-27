@@ -6,7 +6,7 @@ from utils import (
     extract_keywords, md_experience, fill_template, to_ascii,
     slugify, ProfileSchema, AnswersSchema, dedupe_list
 )
-from scripts.prompt_engine import rank_keywords_with_llm
+from prompt_engine import rank_keywords_with_llm
 
 BASE = Path(__file__).resolve().parents[1]
 
